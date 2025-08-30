@@ -1,2 +1,5 @@
 - [] Hello world
 - [] This is a markdown file
+- [] It contains a list of tasks
+- [] Each task can be marked as complete or incomplete
+- [] You can use this file to keep track of your progress
